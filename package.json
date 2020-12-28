@@ -9,13 +9,13 @@
         "image",
         "priority"
     ],
-    "homepage": "https://github.com/DylanVann/react-native-fast-image#readme",
+    "homepage": "https://github.com/BillTuan/react-native-fast-image.git#readme",
     "bugs": {
-        "url": "https://github.com/DylanVann/react-native-fast-image/issues"
+        "url": "https://github.com/BillTuan/react-native-fast-image.git/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/DylanVann/react-native-fast-image.git"
+        "url": "https://github.com/BillTuan/react-native-fast-image.git.git"
     },
     "license": "(MIT AND Apache-2.0)",
     "author": "Dylan Vann <dylan@dylanvann.com> (https://dylanvann.com)",
@@ -73,5 +73,8 @@
     "peerDependencies": {
         "react": "^16.8.6",
         "react-native": ">=0.60.0"
+    },
+    "resolutions": {
+        "@babel/preset-env": "^7.10.3"
     }
 }
